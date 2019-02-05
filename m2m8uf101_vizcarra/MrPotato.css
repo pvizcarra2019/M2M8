@@ -1,0 +1,122 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  overflow: visible;
+  position: relative;
+}
+
+.esquerra{
+  float: left;
+  clear: left;
+}
+
+.dreta{
+  float: right;
+  clear: right;
+}
+
+.cap{
+  width: 800px;
+  height: 800px;
+  background-color: orange;
+  margin: 0 auto;
+  border-radius: 400px;
+  transform: scaleY(0.7);
+  top: 200px;
+  left: 200px;
+}
+
+.pel{
+  height: 200px;
+  background-color: black;
+  width: 400px;
+  border-bottom-left-radius: 800px;
+  border-bottom-right-radius: 800px;
+  margin: 0 200px;
+  transform: scaleY(0.6) scaleX(0.8);
+  top: -100px;
+
+}
+
+.ulls{
+  height: 100px;
+  background-color;
+  clear: both;
+}
+
+.celles{
+  height: 20px;
+  background-color: ;
+  clear: both;
+}
+
+.cella{
+  width: 200px;
+  height: 20px;
+  background-color: ;
+  margin: 0 100px;
+}
+
+
+.parpelles{
+  height: : 60px;
+  background-color: ;
+  color: both;
+  margin: 0;
+}
+
+.parpella{
+  width:150px;
+  height: 250px;
+  background-color: white;
+  margin: 0 120px;
+  border-radius: 200px;
+}
+
+.ue {
+  transform: rotate(30deg);
+  left: 60px;
+}
+
+.ud {
+  transform: rotate(-30deg);
+  right: 60px;
+}
+
+.pestanyes{
+  background-color: ;
+  height: 80px;
+  margin: 0 150px;
+}
+
+.pestanya{
+  height: 40px;
+  width: 80px;
+  background-color: ;
+  margin: 0;
+  top: -80px;
+  border-top: solid brown 5px;
+  border-bottom: solid brown 5px;
+}
+
+.pupila{
+  height: 50px;
+  background-color: ;
+}
+
+.nas{
+  background-color: red;
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+  left: 317px;
+  clear: both;
+  bottom: 130px;
+}
+
+.boca{
+
+}
